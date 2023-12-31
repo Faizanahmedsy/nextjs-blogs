@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://jarocki.me</loc>
+  </url>
+
+  <url>
+    <loc>https://jarocki.me/about</loc>
+  </url>
+
+  <url>
+    <loc>https://jarocki.me/blog</loc>
+  </url>
+
+  <url>
+    <loc>https://jarocki.me/tags/[tag]</loc>
+  </url>
+
+  <url>
+    <loc>https://jarocki.me/blog/being-a-leader</loc>
+  </url>
+
+  <url>
+    <loc>https://jarocki.me/blog/custom-hooks</loc>
+  </url>
+
+  <url>
+    <loc>https://jarocki.me/blog/hello-world</loc>
+  </url>
+
+  <url>
+    <loc>https://jarocki.me/blog/react-hooks-rules</loc>
+  </url>
+
+  <url>
+    <loc>https://jarocki.me/blog/time</loc>
+  </url>
+
+  <url>
+    <loc>https://jarocki.me/blog/tools</loc>
+  </url>
+</urlset>
